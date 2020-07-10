@@ -49,7 +49,7 @@ However, based on the current model, insights about the contribution of specific
 * Having an excellent kitchen will result in a 8.7% increase in sale price
 * Having a built-in garage will result in a 8.4% increase in sale price
 * A one-unit increase in overall quality will result in an 8.2% increase in sale price.
-* Having an exterior quality of fair will result in a -16.6% decrease in sale price.
+* Having an exterior quality of fair will result in a 16.6% decrease in sale price.
 * Having a townhouse will result in a 11.3% decrease in sale price. 
 * Having a duplex will result in a 8.1% decrese in sale price.
 
