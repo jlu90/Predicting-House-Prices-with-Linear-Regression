@@ -62,4 +62,4 @@ I hope to continue making improvements to this model to help automate the proper
 1. [Population of Ames Iowa](https://datausa.io/profile/geo/ames-ia/)
 2. [City of Ames Website](https://www.cityofames.org/about-ames/about-ames)
 3. [Machine Learning in Real Estate](https://unionstreetmedia.com/the-rise-of-machine-learning-in-real-estate/#:~:text=Personalized%20Marketing%20Automation%20%E2%80%93%20machine%20learning,neighborhood%20and%20property%20is%20best)
-4. [Ames Housing Data - Original Article](#http://jse.amstat.org/v19n3/decock.pdf)
+4. [Ames Housing Data - Original Article](http://jse.amstat.org/v19n3/decock.pdf)
