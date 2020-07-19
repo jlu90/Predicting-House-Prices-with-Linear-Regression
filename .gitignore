@@ -1,2 +1,6 @@
 .DS_Store
-code/.DS_Storee
+code/.DS_Store
+.ipynb_checkpoints
+code/.ipynb_checkpoints
+suggestions.md
+
