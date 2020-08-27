@@ -1,6 +1,8 @@
 # README: Predicting House Prices with Linear Regression
 #### Author: Jocelyn Lutes
 
+**Check out a summary of this project on [Towards Data Science](#https://towardsdatascience.com/predicting-house-prices-with-linear-regression-4fc427cb1002)!**
+
 ## Problem Statement
 Ames, Iowa is a city in central Iowa, located approximately 37 miles from the capital city of Des Moines. In 2016, the population of Ames was approximately 65,000 residents [(1)](https://datausa.io/profile/geo/ames-ia/). Home to Iowa State University, and hosting offices for several major companies, including 3M, Barilla, Boehringer Ingelheim, and Syngenta, Ames offers a small-town feel with the amenities of a larger city [(2)](https://www.cityofames.org/about-ames/about-ames). At Ames Realty Co., we are passionate about helping our clients find a house that feels like a home. 
 
